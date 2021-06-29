@@ -4,4 +4,5 @@
   
 ![Features](Features.png)
 
-* The model was built using RandomForestRegressor was used which gave a Mean Absoulte Error of only 60%.
+* **The model was built using **_RandomForestRegressor_** and the hyperparameter tuing was done using _**RandomizedSearchCV.**_**
+* **After performing these steps,model gave an RMSE of about 96%.**
