@@ -4,4 +4,4 @@
   
 ![Features](Features.png)
 
-* The model using RandomForestRegressor and a RandomizedSearchCV which gave a Mean Absoulte Error of only 60%.
+* The model was built using RandomForestRegressor was used which gave a Mean Absoulte Error of only 60%.
