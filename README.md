@@ -5,6 +5,5 @@
 ![Features](Features.png)
 
 * **The model was built using **_RandomForestRegressor_** and the hyperparameter tuing was done using _**RandomizedSearchCV.**_**
-* **After performing these steps,model gave an RMSE of about 96%.**
 
 _**Thank You!!**_
